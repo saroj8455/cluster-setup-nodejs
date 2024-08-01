@@ -51,3 +51,7 @@ Percentage of requests served within a certain time
 ## pm2 monitor
 
 `npx pm2 monit`
+
+## start node as primary instance to implement load balance
+
+`node primary.js`
